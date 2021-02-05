@@ -2,7 +2,7 @@ spring:
   profiles:
     active: sit
 server:
-  port: 8402
+  port: 8502
 spring:
   application:
-    name: config-server
+    name: client-config-server
